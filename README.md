@@ -12,8 +12,8 @@ Caso tenha interesse, publiquei um artigo a respeito deste projeto no Medium.
 
 Entre em contato em caso de dúvida. Estou sempre à disposição.
 
-Linkedin: https://www.linkedin.com/in/fabio-ceruti/
-E-mail: fabiocceruti10@gmail.com
+* Linkedin: https://www.linkedin.com/in/fabio-ceruti/
+* E-mail: fabiocceruti10@gmail.com
 
 Espero que goste! Até breve!
 
