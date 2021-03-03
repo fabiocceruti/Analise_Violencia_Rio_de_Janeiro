@@ -4,8 +4,17 @@
   <a href="http://www.freepik.com">Designed by starline / Freepik</a>
 </p>
 
-# Análise da violência do estado do Rio de Janeiro
+# Análise dos dados de violência do estado do Rio de Janeiro
 
-Em construção........
+Neste projeto utilizei um dataset do [ISP](https://www.ispdados.rj.gov.br:4432/estatistica.html) para realizar uma análise dos dados com python.
+
+Caso tenha interesse, publiquei um artigo a respeito deste projeto no Medium.
+
+Entre em contato em caso de dúvida. Estou sempre à disposição.
+
+Linkedin: https://www.linkedin.com/in/fabio-ceruti/
+E-mail: fabiocceruti10@gmail.com
+
+Espero que goste! Até breve!
 
 ----------------------------------------------------------------
