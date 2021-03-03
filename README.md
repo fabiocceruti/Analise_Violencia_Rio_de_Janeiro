@@ -8,7 +8,7 @@
 
 Neste projeto utilizei um dataset do [ISP](https://www.ispdados.rj.gov.br:4432/estatistica.html) para realizar uma análise dos dados com python.
 
-Caso tenha interesse, publiquei um artigo a respeito deste projeto no Medium.
+Caso tenha interesse, publiquei um artigo a respeito deste projeto no [Medium](https://fabiocceruti.medium.com/an%C3%A1lise-dos-dados-de-viol%C3%AAncia-no-estado-do-rio-de-janeiro-7c784a0f8816).
 
 Entre em contato em caso de dúvida. Estou sempre à disposição.
 
